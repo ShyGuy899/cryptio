@@ -164,7 +164,6 @@ def Main():
   \_____|_|   \__, | .__/ \__|_|\___/ 
                __/ | |                
               |___/|_|                ''')
-	print(CBLUE2)
 	print ('''
 ##########################################################################
 #* Welcome to Cryptio! A python encryptor AES Encryption and Decryption *#
